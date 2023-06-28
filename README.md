@@ -1,5 +1,6 @@
-## SnapFusion-Diffuser (wip)
-Implementation of SnapFusion - Step Distillation and Network Architecture for the Diffusion Model in Diffuser
+## SnapFusion Diffuser (wip)
+
+Implementation of <a href="https://arxiv.org/abs/2306.00980">SnapFusion</a> - Step Distillation and Network Architecture forthe Diffusion Model in Diffuser
 
 ## Citations
 
